@@ -1,0 +1,15 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer-under {
+    background: #fff;
+}
+
+a {
+    outline: none;
+}
+
+.mini_icons {
+    right: 5px;
+}
